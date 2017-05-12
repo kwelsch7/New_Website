@@ -1,0 +1,69 @@
+﻿body {
+    background-color: #6b6054;
+    padding-top: 95.4px;
+    padding-bottom: 20px;
+}
+
+/* back-up colors: 312f2f -- doe3cc -- 9ebc9e */
+/* Get more theme colors: https://coolors.co/ef5b09-ceb5a7-f2efea-6b6054 */
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #f2efea;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+#tabsBar {
+    background-color: #ceb5a7;
+    height: 52px;
+}
+
+.nav-link {
+    background-color: #ef5b09;
+    color: #f2efea;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 6px;
+    margin-right: 6px;
+}
+
+    .nav-link:hover {
+        background-color: #f2efea;
+        color: #ef5b09;
+    }
+
+.navbar-header > a {
+    color: #f2efea;
+}
+
+.navbar-header:hover > a:hover {
+    color: #f2efea;
+    text-decoration: none;
+}
+
+h1 {
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-size: large;
+    margin-top: 0;
+}
+
+#projectsPreview {
+    display: inline-block;
+}
+
+#projectsDescription {
+    width: 150px;
+}

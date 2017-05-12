@@ -1,0 +1,9 @@
+C:\Users\Konnor\Documents\GitHub\New_Website\KonnorWelschDotCom\bin\Debug\netcoreapp1.1\KonnorWelschDotCom.deps.json
+C:\Users\Konnor\Documents\GitHub\New_Website\KonnorWelschDotCom\bin\Debug\netcoreapp1.1\KonnorWelschDotCom.runtimeconfig.json
+C:\Users\Konnor\Documents\GitHub\New_Website\KonnorWelschDotCom\bin\Debug\netcoreapp1.1\KonnorWelschDotCom.runtimeconfig.dev.json
+C:\Users\Konnor\Documents\GitHub\New_Website\KonnorWelschDotCom\bin\Debug\netcoreapp1.1\KonnorWelschDotCom.dll
+C:\Users\Konnor\Documents\GitHub\New_Website\KonnorWelschDotCom\bin\Debug\netcoreapp1.1\KonnorWelschDotCom.pdb
+C:\Users\Konnor\Documents\GitHub\New_Website\KonnorWelschDotCom\obj\Debug\netcoreapp1.1\KonnorWelschDotCom.csprojResolveAssemblyReference.cache
+C:\Users\Konnor\Documents\GitHub\New_Website\KonnorWelschDotCom\obj\Debug\netcoreapp1.1\KonnorWelschDotCom.AssemblyInfo.cs
+C:\Users\Konnor\Documents\GitHub\New_Website\KonnorWelschDotCom\obj\Debug\netcoreapp1.1\KonnorWelschDotCom.dll
+C:\Users\Konnor\Documents\GitHub\New_Website\KonnorWelschDotCom\obj\Debug\netcoreapp1.1\KonnorWelschDotCom.pdb

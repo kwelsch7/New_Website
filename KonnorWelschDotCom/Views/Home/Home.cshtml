@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container content-background">
+    <div id="projectsAndLinks" class="col-lg-8">
+        <div id="projectsPreview">
+            <a href="~/Home/Projects">
+                <img src="~/images/Smart-GPA-Calculator.png" alt="ProjectsPreview" width="450" height="313" />
+                <div id="projectsDescription">
+                    <!-- Message that I want NEXT to the picture... -->
+                </div>
+            </a>
+        </div>
+        <div id="linksArea">
+            <!-- Stuff to come -->
+        </div>
+    </div>
+
+    <div id="aboutMe" class="col-lg-4">
+        <h3>About Me</h3>
+        <a asp-controller="Home" asp-action="Portfolio">
+            <img src="~/images/Konnor-Profile-frontpage.jpg" alt="Profile" />
+        </a>
+    </div>
+</div>
